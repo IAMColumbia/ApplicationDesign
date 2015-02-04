@@ -8,3 +8,4 @@
 ## Students
 
 * [Jordan Max](https://github.com/jordmax12)
+* [Neil Inglese](https://github.com/neilinglese)
