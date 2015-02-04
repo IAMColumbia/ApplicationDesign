@@ -8,3 +8,4 @@
 ## Students
 
 * [Fake Student](https://github.com/FakeStudent)
+* [Marvin Baumgart](https://github.com/MarvinBaumgart)
