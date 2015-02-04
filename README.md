@@ -9,8 +9,6 @@
 
 
 * [Fake Student](https://github.com/FakeStudent)
-<<<<<<< HEAD
-
 
 
 
