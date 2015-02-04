@@ -7,4 +7,4 @@
 
 ## Students
 
-* [Fake Student](https://github.com/FakeStudent)
+* [Jordan Max](https://github.com/jordmax12)
