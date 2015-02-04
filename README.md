@@ -26,7 +26,7 @@
 =======
 
 * [Fake Student](https://github.com/FakeStudent)
-  [Cesar Mojarro](https://github.com/cmojarro)
+* [Cesar Mojarro](https://github.com/cmojarro)
 * [Fake Student](https://github.com/FakeStudent)
 * [Jordan Max](https://github.com/jordmax12)
 * [Neil Inglese](https://github.com/neilinglese)
