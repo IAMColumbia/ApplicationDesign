@@ -15,3 +15,4 @@
 * [Neil Inglese](https://github.com/neilinglese)
 * [Matt Schick](https://github.com/schickm)
 * [Marvin Baumgart](https://github.com/MarvinBaumgart)
+* [Clay Haddock](https://github.com/Claytonhaddock)
