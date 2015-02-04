@@ -7,5 +7,13 @@
 
 ## Students
 
+
 * [Fake Student](https://github.com/FakeStudent)
+
+
+
+* [Fake Student](https://github.com/FakeStudent)
+* [Jordan Max](https://github.com/jordmax12)
+* [Neil Inglese](https://github.com/neilinglese)
+* [Matt Schick](https://github.com/schickm)
 * [Clay Haddock](https://github.com/Claytonhaddock)
