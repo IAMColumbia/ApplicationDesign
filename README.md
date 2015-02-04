@@ -8,3 +8,4 @@
 ## Students
 
 * [Fake Student](https://github.com/FakeStudent)
+* [Matt Schick](https://github.com/schickm)
